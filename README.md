@@ -25,5 +25,7 @@ _De momento muy buena experiencia!!!.
 
 Unidad II
 _Realice la correciones de la unidad I, y comence con la unidad II, que ampliamente supera la unidad I en contenido y tiempo de programación, con un poco mas de complejidad en teoria, y conceptos poco visto por mi, pero no dificil de entender (ya que en los videos, explica bastante bien).
+
 _Falta agregar comentarios Para facilitar la comprension.
-_Conflicto con hasLength  
+
+_Conflicto con hasLength(Class: Specification(pelicula y personaje))  
